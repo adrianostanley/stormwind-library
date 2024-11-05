@@ -2,6 +2,11 @@
 
 A library developed in Lua to serve as a framework for building World of Warcraft API addons.
 
+**⚠️ NOV 11, 2024 - THIS PROJECT IS PAUSED FOR AN INDEFINITE PERIOD:** Due to other dev
+priorities requiring my attention in recent weeks, I have decided to pause the development
+of Stormwind Library and its addons. I greatly appreciate all the support and feedback received
+so far and intend to resume work as soon as I complete the ongoing projects.
+
 # Documentation
 
 Stormwind Library documentation is built on top of [docusaurus](https://docusaurus.io/)
